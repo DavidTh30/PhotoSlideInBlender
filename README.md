@@ -1,2 +1,1 @@
-# PhotoSlide
-Photo, Image, Texture Slide
+# Photo, Image, Texture Slide
