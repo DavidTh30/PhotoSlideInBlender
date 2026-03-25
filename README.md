@@ -17,3 +17,7 @@
   <source type="video/mp4" src="RulerCoordinate01.mp4">
 
 </video>
+
+<video controls autoplay>
+  <source src="RulerCoordinate01.mp4" type="video/mp4">
+</video>
