@@ -4,7 +4,11 @@
 - Value to screen
 - Send/Get value between geometry
 
-<video src="RulerCoordinate01.mp4" width="300" height="300">
+<video controls width="250">
+
+  <source src="RulerCoordinate01.mp4" type="video/mp4" />
+
+</video>
 
 <img src="Blender%204.3/PhotoSlideWithCompositing01.png" width="200" height="200">
 
