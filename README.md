@@ -1,4 +1,4 @@
-# Photo, image, texture slide in Blender
+# Photo, image, texture, geometry slide in Blender
 
 <img src="Blender%204.3/PhotoSlideWithCompositing01.png" width="200" height="200">
 
