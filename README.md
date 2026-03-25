@@ -12,8 +12,8 @@
 ![](Blender%204.3/TextureCoordinate03.png)
 
 
-<video controls width="250">
+<video controls width="250" autoplay>
 
-  <source src="RulerCoordinate01.mp4" type="video/mp4" />
+  <source src="RulerCoordinate01.mp4" type="video/mp4">
 
 </video>
